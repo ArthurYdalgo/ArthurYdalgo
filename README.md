@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**ArthurYdalgo/ArthurYdalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name: Arthur Ydalgo
 
-Here are some ideas to get you started:
+Age: 23 years old
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Birthplace: Rio de Janeiro, RJ, Brazil
+
+Interested in learning more
+
+- 💻 I have experience working with C++, Python, SQL and PHP 
+- 🔭 I’m currently working as a back-end developer at [Holder+](https://holderplus.com.br/)
+- 🌱 I’m currently learning
+  - Laravel
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/arthur-y/)
+  - [E-mail](mailto:arthur.aymc@gmail.com)
+
