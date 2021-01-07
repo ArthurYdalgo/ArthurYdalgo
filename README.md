@@ -12,6 +12,7 @@ Interested in learning more
 - 🔭 I’m currently working as a back-end developer at [Holder+](https://holderplus.com.br/)
 - 🌱 I’m currently learning
   - Laravel
+  - [Artificial Intelligence](https://youtu.be/skXSvQRiJBo)
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/arthur-y/)
   - [E-mail](mailto:arthur.aymc@gmail.com)
