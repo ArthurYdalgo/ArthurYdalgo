@@ -9,7 +9,8 @@ Birthplace: Rio de Janeiro, RJ, Brazil
 Interested in learning more
 
 - 💻 I have experience working with C++, Python, SQL and PHP 
-- 🔭 I’m currently working as a back-end developer at [Holder+](https://holderplus.com.br/)
+- 🎓 I'm currently graduating as a Computer Engineer
+- 🔭 I’m currently working as a back-end freelancer
 - 🌱 I’m currently learning
   - Laravel
   - [Artificial Intelligence](https://youtu.be/skXSvQRiJBo)
