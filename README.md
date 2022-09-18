@@ -8,12 +8,10 @@ Birthplace: Rio de Janeiro, RJ, Brazil
 
 Interested in learning more
 
-- 💻 I have experience working with C++, Python, SQL and PHP 
+- 💻 I have experience working with PHP, Python, C++, Python and SQL
 - 🎓 I'm currently graduating as a Computer Engineer
-- 🔭 I’m currently working as a back-end freelancer
-- 🌱 I’m currently learning
-  - Laravel
-  - [Artificial Intelligence](https://youtu.be/skXSvQRiJBo)
+- 🔭 I’m currently working as a back-end developer
+
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/arthur-y/)
   - [E-mail](mailto:arthur.aymc@gmail.com)
