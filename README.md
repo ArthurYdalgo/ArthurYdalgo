@@ -9,7 +9,7 @@ Birthplace: Rio de Janeiro, RJ, Brazil
 Interested in learning more
 
 - 💻 I have experience working with PHP (Laravel), Python, C++, Python and SQL
-- 🎓 I'm currently graduating as a Computer Engineer
+- 🎓 Computer Engineer
 - 🔭 I’m currently working as a back-end developer
 
 - 📫 How to reach me:
