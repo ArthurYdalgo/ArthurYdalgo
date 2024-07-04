@@ -1,15 +1,17 @@
 ### Hey there 👋
 
 Name: Arthur Ydalgo
-
 Age: 26 years old
-
 Birthplace: Rio de Janeiro, RJ, Brazil
+🎓 Computer Engineer 💻
 
-Interested in learning more
-
-- 💻 I have experience working with PHP (Laravel), Python, C++, Python and SQL
-- 🎓 Computer Engineer
+- Skills:
+  - PHP (Laravel)
+  - Python
+  - C and C++
+  - Python
+  - SQL
+    
 - 🔭 I’m currently working as a back-end developer
 
 - 📫 How to reach me:
