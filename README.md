@@ -16,7 +16,7 @@
 #### Programming Languages
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c)  ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus) ![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql) 
 
-#### Database
+#### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Tools
