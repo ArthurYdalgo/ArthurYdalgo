@@ -5,7 +5,7 @@
 
 ### ⚒️ My Creations
 <a href="https://laravext.dev" target="_blank">
-<img src="https://github.com/ArthurYdalgo/ArthurYdalgo/blob/main/laravext-badge.png?raw=true" height="28px" />
+<img src="https://ydalgo.dev/images/laravext-badge.png" height="28px" />
 </a>
 
 ### 💻 Skills
